@@ -1,9 +1,17 @@
 #Tecnologia#
 <div align="center">
 <a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
+
+#
+
+<div align="center">
+<a href="https://github.com/PFonsecaFV">
+<img height="100%" src="https://github-readme-stats.vercel.app/api?username=Mailonap543&theme=github_dark&show_icons=true">
+
+
   
   <div align="left" style="display: inline_block">
-Ola deixe me apresentar , entao meu nome e Mailon augusto 
+Ola deixa eu me apresentar , entao meu nome e Mailon augusto 
 tenho 24 anos e sou dev de back-end e web iniciante e esto focado 
 em aprender a  cada dia.
     
@@ -46,11 +54,5 @@ A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de
   <img align="center" alt="Mailon-mysql" height="30" width="40" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_mysql.svg">
   <img align="center" alt="Mailon-postgre" height="30" width="40" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_postgre.svg">
   <img align="center" alt="Mailon-swagger" height="30" width="40" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_swagger.svg">
-
-  #
-  <div align="center">
-<a href="https://github.com/PFonsecaFV">
-<img height="100%" src="https://github-readme-stats.vercel.app/api?username=Mailonap543&theme=github_dark&show_icons=true">
-</div>
 </div>
 
