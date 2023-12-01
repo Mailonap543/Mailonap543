@@ -11,7 +11,8 @@ em aprender a  cada dia.
 A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de negociação e relacionamento com o cliente.
 
 
-<br> <br>
+  <br> 
+     <br>
       <li>🔭 Aprendendo linguagens e ferramentas de programação</li>
       <li>🌱 Learning English</li>
       <li>💻 Apaixonado por tecnologia e carros</li>
