@@ -1,10 +1,11 @@
-Ola deixe me apresentar , entao meu nome e Mailon augusto 
-tenho 24 anos e sou dev de back-end e web iniciante e esto focado 
-em prader cada dia mais.
-
 #Tecnologia#
   <div align="left" style="display: inline_block">
-  Habilidades em Java e tecnologias relacionadas trazem uma perspectiva estratégica para soluções tecnológicas. A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de negociação e relacionamento com o cliente.
+Ola deixe me apresentar , entao meu nome e Mailon augusto 
+tenho 24 anos e sou dev de back-end e web iniciante e esto focado 
+em aprender a  cada dia.
+    
+💻 Habilidades em Java e tecnologias relacionadas trazem uma perspectiva estratégica para soluções tecnológicas.
+A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de negociação e relacionamento com o cliente.
 
 #
 <br> <br>
