@@ -8,10 +8,10 @@
 <a href="https://github.com/PFonsecaFV">
 <img height="100%" src="https://github-readme-stats.vercel.app/api?username=Mailonap543&theme=github_dark&show_icons=true">
 
-
+#
   
   <div align="left" style="display: inline_block">
-Ola deixa eu me apresentar , entao meu nome e Mailon augusto 
+Ola deixa eu me apresentar , entao meu nome e Mailon Augusto 
 tenho 24 anos e sou dev de back-end e web iniciante e esto focado 
 em aprender a  cada dia.
     
@@ -31,7 +31,7 @@ A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de
   </div>
 </div>
 
-
+#
 
 <div align="center">
 <h3>Languagem, technologias e que utilizo atualmente :</h3>
