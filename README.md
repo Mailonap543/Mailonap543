@@ -1,4 +1,7 @@
 #Tecnologia#
+<div align="center">
+<a href="https://github.com/PFonsecaFV/PFonsecaFV"><img height="180px" align="right" src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/images/pc_cod_patrickfonseca.gif"/></a>
+  
   <div align="left" style="display: inline_block">
 Ola deixe me apresentar , entao meu nome e Mailon augusto 
 tenho 24 anos e sou dev de back-end e web iniciante e esto focado 
@@ -7,7 +10,7 @@ em aprender a  cada dia.
 💻 Habilidades em Java e tecnologias relacionadas trazem uma perspectiva estratégica para soluções tecnológicas.
 A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de negociação e relacionamento com o cliente.
 
-#
+
 <br> <br>
       <li>🔭 Aprendendo linguagens e ferramentas de programação</li>
       <li>🌱 Learning English</li>
@@ -15,7 +18,7 @@ A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de
       <li>📧 esse e meu Gmail<a href="mailto:Augustomailon4@gmail.com">Augustomailon4@gmail.com</a></li>
   </div>
 </div>
-#
+
 
 
 <div align="center">
