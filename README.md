@@ -1,4 +1,4 @@
-<div align="left" style="display: inline_block">
+
 Ola deixa eu me apresentar , entao meu nome e Mailon Augusto 
 tenho 24 anos e sou dev de back-end e web iniciante e estou focado 
 em aprender a  cada dia.
