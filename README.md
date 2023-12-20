@@ -18,16 +18,6 @@ em aprender a  cada dia.
 A experiência anterior no setor de agricutura  enriqueceu minhas habilidades de negociação e relacionamento com o cliente.
 
 
-  <br> 
-     <br>
-      <li>🔭 Aprendendo linguagens e ferramentas de programação</li>
-      <li>🌱 Learning English</li>
-      <li>💻 Apaixonado por tecnologia e carros</li>
-      <li>- 🤔 Meus hobbies são jogos, animes e séries</li>
-      <li>- 💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas</li>
-      <li>📧  meu Gmail <a href="mailto:Augustomailon4@gmail.com">Augustomailon4@gmail.com</a></li>
-  </div>
-</div>
 
 #
 
