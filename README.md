@@ -10,7 +10,7 @@ em aprender a  cada dia.
   
 #
   
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mailonap543&theme=hacker&hide_border=verdadeiro&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mailonap543&theme=github-green-purple&hide_border=verdadeiro&border_radius=4.3&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=150" alt="GitHub Streak" /></a>
  
 #
 
